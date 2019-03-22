@@ -1185,7 +1185,7 @@ banner-section
 }
 .about-section .about-content .readmore a:before {
     content:'';
-    background:url('https://webfc.github.io/webfabiocostasite/wp-content/themes/uncode-lite/assets/images/about-arrow.png') no-repeat;
+    background:url('https://https://webfc.github.io/digitalfc/wp-content/themes/uncode-lite/assets/images/about-arrow.png') no-repeat;
     width:19px;
     height: 16px;
     position: absolute;
@@ -1411,7 +1411,7 @@ BLOG-SECTION
 .blog-section .blogsinfo .blog-readmore:before {
     content:'';
     position: absolute;
-    background:url('https://webfc.github.io/webfabiocostasite/wp-content/themes/uncode-lite/assets/images/blog-arrow.png');
+    background:url('https://https://webfc.github.io/digitalfc/wp-content/themes/uncode-lite/assets/images/blog-arrow.png');
     top: 50%;
     left: 0;
     margin-top:-8px;
@@ -1808,7 +1808,7 @@ footer .footer-right ul a:hover {
 }
 .main-blog-right .btn-readmore a:after {
     content:'';
-    background:url('https://webfc.github.io/webfabiocostasite/wp-content/themes/uncode-lite/assets/images/blog-arrow.png') no-repeat;
+    background:url('https://https://webfc.github.io/digitalfc/wp-content/themes/uncode-lite/assets/images/blog-arrow.png') no-repeat;
     width:16px;
     height:16px;
     position: absolute;
@@ -2206,7 +2206,7 @@ tags cloud css
 .nav-previous a:before {
     content:'';
     position: absolute;
-    background:url('https://webfc.github.io/webfabiocostasite/wp-content/themes/uncode-lite/assets/images/previous-arrow.png') no-repeat;
+    background:url('https://https://webfc.github.io/digitalfc/wp-content/themes/uncode-lite/assets/images/previous-arrow.png') no-repeat;
     width: 16px;
     height:16px;
     top:50%;
@@ -2216,7 +2216,7 @@ tags cloud css
 .nav-next a:after {
     content:'';
     position: absolute;
-    background:url('https://webfc.github.io/webfabiocostasite/wp-content/themes/uncode-lite/assets/images/next-arrow.png') no-repeat;
+    background:url('https://https://webfc.github.io/digitalfc/wp-content/themes/uncode-lite/assets/images/next-arrow.png') no-repeat;
     width: 16px;
     height:16px;
     top:50%;
@@ -2402,7 +2402,7 @@ tags cloud css
 .error-404 .backtohome a:before {
     content: '';
     position: absolute;
-    background: url('https://webfc.github.io/webfabiocostasite/wp-content/themes/uncode-lite/assets/images/back-to-home.png') no-repeat;
+    background: url('https://https://webfc.github.io/digitalfc/wp-content/themes/uncode-lite/assets/images/back-to-home.png') no-repeat;
     width: 18px;
     height: 16px;
     top: 50%;
